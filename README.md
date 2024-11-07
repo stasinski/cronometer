@@ -1,1 +1,1 @@
-# change the calendar week to start on Monday
+# Change the calendar week to start on Monday
