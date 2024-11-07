@@ -1,0 +1,13 @@
+.weekDaysRow {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.weekDaysRow td {
+  padding: 0 16px;
+}
+
+.sunday {
+  order: 5;
+}
