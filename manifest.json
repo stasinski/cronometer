@@ -4,15 +4,11 @@
     "version": "1.0.0",
     "content_scripts": [
         {
-            "css": [
-                "style.css"
-            ],
             "js": [
                 "Content.js"
             ],
             "matches": [
-                "https://cronometer.com/*",
-                "https://cronometer.com/#diary"
+                "https://cronometer.com/*"
             ]
         }
     ]
